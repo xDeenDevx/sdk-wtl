@@ -1,0 +1,27 @@
+// WidgetBlueprintGeneratedClass WBP_MainMenu_Customization.WBP_MainMenu_Customization_C
+// Size: 0x1940 (Inherited: 0x1890)
+struct UWBP_MainMenu_Customization_C : UWTLMainMenuCustomization {
+	struct UHorizontalBox* hbBodyType; // 0x1890(0x08)
+	struct UWBP_Common_SexButton_C* ucSexButtonFemale; // 0x1898(0x08)
+	struct UWBP_Common_SexButton_C* ucSexButtonMale; // 0x18a0(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton; // 0x18a8(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_1; // 0x18b0(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_2; // 0x18b8(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_3; // 0x18c0(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_4; // 0x18c8(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_5; // 0x18d0(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_6; // 0x18d8(0x08)
+	struct UWBP_MainMenu_BodyPartTabButton_C* UI_MainMenu_BodyPart_TabButton_C_7; // 0x18e0(0x08)
+	struct UWBP_MainMenu_Customization_Item_C* UI_MainMenu_Customization_Item; // 0x18e8(0x08)
+	struct UWBP_MainMenu_Customization_Item_C* UI_MainMenu_Customization_Item_C_1; // 0x18f0(0x08)
+	struct UWBP_MainMenu_Customization_Item_C* UI_MainMenu_Customization_Item_C_3; // 0x18f8(0x08)
+	struct UWBP_MainMenu_Customization_Item_C* UI_MainMenu_Customization_Item_C_4; // 0x1900(0x08)
+	struct UWBP_MainMenu_Customization_MaterialsTabButton_C* UI_MainMenu_Customization_Materials_Tab_Button; // 0x1908(0x08)
+	struct UWBP_MainMenu_Customization_MaterialsTabButton_C* UI_MainMenu_Customization_Materials_Tab_Button_C_2; // 0x1910(0x08)
+	struct UWBP_MainMenu_Customization_MaterialsTabButton_C* UI_MainMenu_Customization_Materials_Tab_Button_C_3; // 0x1918(0x08)
+	struct UWBP_MainMenu_MaterialColorScalar_C* UI_MainMenu_Material_Color_Scalar; // 0x1920(0x08)
+	struct UWBP_MainMenu_MaterialColorScalar_C* UI_MainMenu_Material_Color_Scalar_C_2; // 0x1928(0x08)
+	struct UWBP_MainMenu_MaterialColorScalar_C* UI_MainMenu_Material_Color_Scalar_C_3; // 0x1930(0x08)
+	struct UWBP_MainMenu_MaterialColorScalar_C* UI_MainMenu_Material_Color_Scalar_C_4; // 0x1938(0x08)
+};
+

@@ -1,0 +1,24 @@
+// UserDefinedStruct ST_WeatherScheme.ST_WeatherScheme
+// Size: 0x78 (Inherited: 0x00)
+struct FST_WeatherScheme {
+	float CloudDensity_3_379A086D4DFA6191C20DB7A59428ECD5; // 0x00(0x04)
+	float MoonIntensity_7_154D98184900D4157902F2A3B572C7FA; // 0x04(0x04)
+	float Saturation_6_B0BEDF37446BAA52764525A933D1D268; // 0x08(0x04)
+	float OverallIntensity_11_24DAF7B247FA2997FB47C685BB10D287; // 0x0c(0x04)
+	float SunBrightness_13_2566699542EA6AA0BD8640A9D0B34353; // 0x10(0x04)
+	float SunLightingIntensity_15_5B5E97EF438AC3E63F1CEEAE5884D260; // 0x14(0x04)
+	float SunIntensityMultiplier_36_BF4E3E8F453067E251F7D9A513101A60; // 0x18(0x04)
+	char pad_1C[0x4]; // 0x1c(0x04)
+	struct UCurveLinearColor* HorizonBaseColorCurve_27_70F23F4944B79D1A5CF720BCB031B796; // 0x20(0x08)
+	struct UCurveLinearColor* ZenithBaseColorCurve_28_6077562242BA56F5F17EF8B4D2B2F843; // 0x28(0x08)
+	struct UCurveLinearColor* CloudLightColorCurve_29_85BEF7BA4A2300075D6D1AACDB48EA5E; // 0x30(0x08)
+	struct UCurveLinearColor* CloudDarkColorCurve_30_9F40C7344D417AC4515E20AC74CF915E; // 0x38(0x08)
+	struct UCurveLinearColor* SunColorCurve_31_DA9008094F11BA9741DB55A059D5E7A9; // 0x40(0x08)
+	float FogDensity_38_F99F0D2B4500323900BBDBB70DD2AC66; // 0x48(0x04)
+	float FogHeightFalloff_45_524DCC4A4B90EA5F8F9E6BBC1263EA37; // 0x4c(0x04)
+	float FogStartDistance_40_05CC49BF40712380F81A5F9A0CDE5A17; // 0x50(0x04)
+	float FogCutoffDistance_43_4F93197F41D7D794A4B1188819017667; // 0x54(0x04)
+	struct FLinearColor PostProcessSceneColorTint_48_979F9FE6477CA3880EC647ACB5464BEF; // 0x58(0x10)
+	struct FLinearColor FogColor_51_738E10244157E6FCB3831FB98A95346B; // 0x68(0x10)
+};
+
