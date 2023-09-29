@@ -1,15 +1,17 @@
-## wtl pubg 
+# wtl pubg
 
-| Version             | Status                      | Data                                          |
-| ----------------- | ------------------------------------------------------------------ |
-| 0.57.8| ![#228B22](https://via.placeholder.com/10/228B22?text=+) Updated | 28.09 |
+| Version   | Status                                           | Date       |
+| --------- | ------------------------------------------------ | ---------- |
+| 0.57.8    | ![Updated](https://via.placeholder.com/10/228B22?text=+) Updated | 28.09      |
 
-| Name offset             | Value                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Gname | ![#228B22](https://via.placeholder.com/10/228B22?text=+) 0x5e4c600 |
-| Uworld | ![#228B22](https://via.placeholder.com/10/228B22?text=+) 0x5e45a48 |
-| Gobject | ![#228B22](https://via.placeholder.com/10/228B22?text=+) 0x5c91538 |
+## Name offset
 
-## Support 
+| Name      | Value                                    |
+| --------- | ---------------------------------------- |
+| Gname     | ![Offset](https://via.placeholder.com/10/228B22?text=+) 0x5e4c600 |
+| Uworld    | ![Offset](https://via.placeholder.com/10/228B22?text=+) 0x5e45a48 |
+| Gobject   | ![Offset](https://via.placeholder.com/10/228B22?text=+) 0x5c91538 |
 
-[community](https://discord.gg/xCESP5p53)
+## Support
+
+[Community](https://discord.gg/xCESP5p53)
